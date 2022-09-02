@@ -1,0 +1,90 @@
+body {
+  background-color: #606168;
+}
+
+nav {
+  background-color: #595c6d;
+}
+
+.space {
+  margin-bottom: 2rem;
+}
+
+.container-button {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#modal-content {
+  height: 120%;
+}
+
+.modal-content {
+  
+  background-color: #6d6774;
+}
+
+#modal_nombreBen10 {
+  color: white;
+  font-weight: bold;
+}
+
+#div_search {
+  margin-bottom: 0;
+  position: relative;
+}
+
+#iconoBuscar,
+#iconoCerrar {
+  cursor: pointer;
+}
+
+.contenedor-resultados {
+  background-color: rgb(16, 15, 34);
+  position: absolute;
+  width: 100%;
+  top: calc(100% + 0.10rem);
+  left: 0;
+  z-index: 1000;
+}
+
+#searchInput:focus {
+  opacity: 1;
+}
+
+.Ben10Encontrado {
+  color: white;
+}
+
+#topbarsearch {
+  margin-bottom: 0;
+}
+
+.prefix {
+  top: 0 !important;
+}
+
+.type-content {
+  display: flex !important;
+}
+
+.img-modal {  
+  max-width: 110%;
+}
+
+@media (max-width: 352px) {
+  .type-content a:nth-child(2) {
+    display: none !important;
+  }
+}
+
+@media (min-width: 600px) {
+  #div-content {
+    transform: translate(0, 8%);
+  }
+
+  #modal_leftContent {
+    transform: translate(0px, 50%);
+  }
+}

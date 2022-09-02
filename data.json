@@ -1,0 +1,407 @@
+[
+  {
+    "abilities": [
+      "Enhanced Smelling",
+      "Enhanced Durability",
+      "Enhanced Dexterity",
+      "Enhanced Agility",
+      "Enhanced Acrobatics",
+      "Enhanced Hearing",
+      "Enhanced Digging",
+      "Enhanced Speed",
+      "Enhanced Jumping",
+      "Enhanced Reflexes",
+      "Enhanced Tracking",
+      "Quadrupedalism",
+      "Bipedalism",
+      "Sharp Teeth",
+      "Sharp Claws",
+      "Prehensile Feet",
+      "Wall Climbing",
+      "Quill Projection",
+      "Sightless Sensing",
+      "Invisibility Sight",
+      "Nightmarish Face Immunity"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/6078368a39565863c09f4480",    
+    "general": [
+      "Species: Vulpimancer",
+      "Homeworld: Vulpin",
+      "Body: Animalistic"      
+    ],
+    "number": "001",    
+    "collectibles_slug": "Wildmutt",
+    "featured": "true",
+    "slug": "Wildmutt",
+    "name": "Wildmutt",
+    "ThumbnailAltText": "Wildmutt",
+    "ThumbnailImage": "./imagenes/Wildmutt.png",
+    "id": 1,
+    "type": [
+      "Get"      
+    ]
+  },
+  {
+    "abilities": [
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Agility",
+      "Enhanced Speed",
+      "Enhanced Reflexes",
+      "Enhanced Jumping",
+      "Enhanced Acrobatics",
+      "Wrestling Proficiency",
+      "Strong/Sharp Teeth",
+      "Sonic Clap",
+      "Shock Waves",
+      "Earthquake Generation",
+      "Wall Climbing",
+      "Heat Resistance",
+      "Gas Immunity",
+      "Slime Spit (via cold virus)"
+      ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/607836a839565863c09f4481",   
+    "general": [
+      "Species: Tetramand",
+      "Homeworld: Khoros",
+      "Body: Four-Armed Humanoid"
+    ],
+    "number": "002",   
+    "collectibles_slug": "Four Arms",
+    "featured": "true",
+    "slug": "Four Arms",
+    "name": "Four Arms",
+    "ThumbnailAltText": "Four Arms",
+    "ThumbnailImage": "./imagenes/FourArms.png",
+    "id": 2,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Enhanced Intelligence",
+      "Enhanced Agility",
+      "Enhanced Flexibility",
+      "Enhanced Jumping",
+      "Wall Crawling",
+      "Sharp Teeth",
+      "Slippery Body",
+      "Underwater Breathing",
+      "Prehensile Tongue",
+      "Small Space Maneuvering"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/607836c239565863c09f4482",    
+    "general": [
+      "Species: Galvan",
+      "Homeworld: Galvan Prime",
+      "Body: Humanoid Frog"
+    ],
+    "number": "003",    
+    "collectibles_slug": "Grey Matter",
+    "featured": "true",
+    "slug": "Grey Matter",
+    "name": "Grey Matter",
+    "ThumbnailAltText": "Grey Matter",
+    "ThumbnailImage": "./imagenes/GreyMatter.png",
+    "id": 3,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Enhanced Speed",
+      "Enhanced Agility",
+      "Enhanced Stamina",
+      "Enhanced Jumping",
+      "Enhanced Reflexes",
+      "Enhanced Recovery",
+      "Enhanced Strength",
+      "Enhanced Dexterity",
+      "Enhanced Durability",
+      "Enhanced Directionality",
+      "Accelerated Thinking",
+      "Sharp Elbow Blades",
+      "Sharp Claws",
+      "Sharp Feet",
+      "Gas Immunity",
+      "Wall and Water Running",
+      "Prehensile Tail",
+      "Vortex Creation"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/607836d339565863c09f4483",   
+    "general": [
+      "Species: Kineceleran",
+      "Homeworld: Kinet",
+      "Body: Humanoid Velociraptor"
+    ],
+    "number": "004",    
+    "collectibles_slug": "XLR8",
+    "featured": "true",
+    "slug": "XLR8",
+    "name": "XLR8",
+    "ThumbnailAltText": "XLR8",
+    "ThumbnailImage": "./imagenes/XLR8.png",
+    "id": 4,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Crystallokinesis",
+      "Crystalline Constructs",
+      "Crystal Shard Projectiles",
+      "Sharp Back Shards",
+      "Metamorphic Arms",
+      "Weapon Manifestation",
+      "Regeneration",
+      "Body Alteration",
+      "Energy Refraction",
+      "Energy Absorption",
+      "Energy Redirection",
+      "Aging Immunity",
+      "Decay Immunity",
+      "Time Ray Immunity",
+      "Acid Immunity",
+      "Heat Resistance",
+      "Space Survivability",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Crystal Board Surfing",
+      "Crystallization",
+      "Enhanced Dexterity",
+      "Enhanced Jumping",
+      "Enhanced Digging",
+      "Enhanced Reflexes",
+      "Enhanced Acrobatics",
+      "Crystal Spit (via cold virus)"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/607836f539565863c09f4485",    
+    "general": [
+      "Species: Petrosapien",
+      "Homeworld: Petropia",
+      "Body: TCrystalline Humanoid"
+    ],
+    "number": "005", 
+    "collectibles_slug": "Diamondhead",
+    "featured": "true",
+    "slug": "Diamondhead",
+    "name": "Diamondhead",
+    "ThumbnailAltText": "Diamondhead",
+    "ThumbnailImage": "./imagenes/Diamondhead.png",
+    "id": 5,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Underwater Breathing",
+      "Underwater Vortex Generation",
+      "Tail Formation",
+      "Speed Swimming",
+      "Steel-Bending Jaws",
+      "Mouth Expansion",
+      "Strong/Sharp Teeth",
+      "Sharp Claws",
+      "Glowing Eyes",
+      "Glowing Lure",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Dexterity",
+      "Enhanced Agility (underwater)"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/6078370439565863c09f4486",   
+    "general": [
+      "Species: Piscciss Volann",
+      "Homeworld: Piscciss",
+      "Body: Humanoid Anglerfish"
+    ],
+    "number": "006",    
+    "collectibles_slug": "Ripjaws",
+    "featured": "true",
+    "slug": "Ripjaws",
+    "name": "Ripjaws",
+    "ThumbnailAltText": "Ripjaws",
+    "ThumbnailImage": "./imagenes/Ripjaws.png",
+    "id": 6,
+    "type": [
+      "GET"      
+    ]
+  },
+  {
+    "abilities": [
+      "Flight",
+      "Slime Projectiles",
+      "Slime Spit",
+      "Methane Gas",
+      "Herbicide Projection",
+      "Sharp Claws",
+      "Sharp Feet",
+      "Sharp Tail",
+      "Movable Eyes",
+      "360° Vision",
+      "Wall Crawling",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Agility",
+      "Enhanced Dexterity",
+      "Enhanced Reflexes",
+      "Enhanced Speed (via Flight)"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/6078371239565863c09f4487",    
+    "general": [
+      "Species: Lepidopterran",
+      "Homeworld: Lepidopterra",
+      "Body: HWinged Insectoid"
+    ],
+    "number": "007",    
+    "collectibles_slug": "Stinkfly",
+    "featured": "true",
+    "slug": "Stinkfly",
+    "name": "Stinkfly",
+    "ThumbnailAltText": "Stinkfly",
+    "ThumbnailImage": "./imagenes/Stinkfly.png",
+    "id": 7,
+    "type": [
+      "water"
+    ]
+  },
+  {
+    "abilities": [
+      "Enhanced Speed",
+      "Sphere Transformation",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Balance",
+      "Enhanced Agility",
+      "Enhanced Jumping",
+      "Enhanced Ricocheting",
+      "Enhanced Dexterity",
+      "Enhanced Reflexes",
+      "Enhanced Hearing",
+      "Enhanced Directionality",
+      "Shock Waves",
+      "Tornadoes",
+      "Echolocation",
+      "Energy Deflection",
+      "Sharp Claws",
+      "Sharp Teeth",
+      "Sharp Feet",
+      "Heat Resistance",
+      "Cold Resistance",
+      "Acid Immunity",
+      "Lava Immunity",
+      "Radiation Immunity",
+      "Plasma Ball Immunity",
+      "Mobile Invulnerability",
+      "Electrical Empowerment",
+      "Limited Space Survivability"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/6078372439565863c09f4488",  
+    "general": [
+      "Species: Arburian Pelarota",
+      "Homeworld: Arburia (destroyed)",
+      "Body: Panda-like Pillbug"
+    ],
+    "number": "008",   
+    "collectibles_slug": "Cannonbolt",
+    "featured": "true",
+    "slug": "Cannonbolt",
+    "name": "Cannonbolt",
+    "ThumbnailAltText": "Cannonbolt",
+    "ThumbnailImage": "./imagenes/Cannonbolt.png",
+    "id": 8,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Pyrokinesis",
+      "Fire Absorption",
+      "Fire Breath",
+      "Fire Surfing",
+      "Heat Generation",
+      "Heat Absorption",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Jumping",
+      "Enhanced Acrobatics",
+      "Enhanced Agility",
+      "Enhanced Reflexes",
+      "Pyro Immunity",
+      "Cryo Immunity",
+      "Pyrokinetic Flight",
+      "Enhanced Speed (via Pyrokinetic Flight)",
+      "Limited Terrakinesis",
+      "Underwater Survivability",
+      "Speed Swimming",
+      "Limited Pyroportation",
+      "Gas Immunity",
+      "Limited Corruptura Immunity",
+      "Cryokinesis (via Cold Virus)"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/6078373539565863c09f4489",    
+    "general": [
+      "Species: Pyronite",
+      "Homeworld: Pyros",
+      "Body: Charcoal-Man"
+    ],
+    "number": "009",   
+    "collectibles_slug": "Heatblast",
+    "featured": "true",
+    "slug": "Heatblast",
+    "name": "Heatblast",
+    "ThumbnailAltText": "Heatblast",
+    "ThumbnailImage": "./imagenes/Heatblast.png",
+    "id": 9,
+    "type": [
+      "GET"
+    ]
+  },
+  {
+    "abilities": [
+      "Technokinesis",
+      "Optic Laser",
+      "Technological Possession",
+      "Technological Enhancement",
+      "Technological Repairment",
+      "Electrokinesis",
+      "Electroporation",
+      "Regeneration",
+      "Body Alteration",
+      "Size Alteration",
+      "Arm Extension",
+      "Weapon Hands",
+      "Tentacles",
+      "Elasticity",
+      "Space Survivability",
+      "Enhanced Strength",
+      "Enhanced Durability",
+      "Enhanced Agility",
+      "Enhanced Flexibility",
+      "Light Generation"
+    ],
+    "detailPageURL": "https://ben10-api.herokuapp.com/607836e639565863c09f4484",    
+    "general": [
+      "Species: Galvanic Mechamorph",
+      "Homeworld: Galvan B",
+      "Body: Technological Humanoid"
+    ],
+    "number": "010",    
+    "collectibles_slug": "Upgrade",
+    "featured": "true",
+    "slug": "Upgrade",
+    "name": "Upgrade",
+    "ThumbnailAltText": "Upgrade",
+    "ThumbnailImage": "./imagenes/Upgrade.png",
+    "id": 10,
+    "type": [
+      "GET"
+    ]
+  }
+  
+]
